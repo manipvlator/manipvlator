@@ -1,7 +1,6 @@
-# ＭＡＮＩＰＵＬＡＴＯＲ
-
+<p align="center">
 Android ROM & Kernel Development
-
+<p align="center">
 Mostly Android.
 
 <p align="center">
